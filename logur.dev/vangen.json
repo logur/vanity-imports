@@ -1,0 +1,9 @@
+{
+    "domain": "logur.dev",
+    "repositories": [
+        {
+            "prefix": "adapter/template",
+            "url": "https://github.com/logur/adapter-template"
+        }
+    ]
+}
