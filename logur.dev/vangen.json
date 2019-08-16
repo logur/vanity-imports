@@ -4,6 +4,26 @@
         {
             "prefix": "adapter/template",
             "url": "https://github.com/logur/adapter-template"
+        },
+        {
+            "prefix": "adapter/hclog",
+            "url": "https://github.com/logur/adapter-hclog"
+        },
+        {
+            "prefix": "adapter/kit",
+            "url": "https://github.com/logur/adapter-kit"
+        },
+        {
+            "prefix": "adapter/logrus",
+            "url": "https://github.com/logur/adapter-logrus"
+        },
+        {
+            "prefix": "adapter/zap",
+            "url": "https://github.com/logur/adapter-zap"
+        },
+        {
+            "prefix": "adapter/zerolog",
+            "url": "https://github.com/logur/adapter-zerolog"
         }
     ]
 }
