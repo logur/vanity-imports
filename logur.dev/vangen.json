@@ -24,6 +24,26 @@
         {
             "prefix": "adapter/zerolog",
             "url": "https://github.com/logur/adapter-zerolog"
+        },
+        {
+            "prefix": "integration/template",
+            "url": "https://github.com/logur/integration-template"
+        },
+        {
+            "prefix": "integration/invision",
+            "url": "https://github.com/logur/integration-invision"
+        },
+        {
+            "prefix": "integration/logr",
+            "url": "https://github.com/logur/integration-logr"
+        },
+        {
+            "prefix": "integration/watermill",
+            "url": "https://github.com/logur/integration-watermill"
+        },
+        {
+            "prefix": "integration/zap",
+            "url": "https://github.com/logur/integration-zap"
         }
     ]
 }

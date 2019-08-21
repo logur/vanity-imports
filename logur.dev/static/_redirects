@@ -2,3 +2,6 @@
 
 /adapter/:adapter/* go-get=1 /golang/adapter/:adapter/index.html 200
 /adapter/:adapter/* https://godoc.org/logur.dev/adapter/:adapter 302
+
+/integration/:integration/* go-get=1 /golang/integration/:integration/index.html 200
+/integration/:integration/* https://godoc.org/logur.dev/integration/:integration 302
