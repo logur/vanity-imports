@@ -2,6 +2,10 @@
     "domain": "logur.dev",
     "repositories": [
         {
+            "prefix": "logur",
+            "url": "https://github.com/logur/logur"
+        },
+        {
             "prefix": "adapter/template",
             "url": "https://github.com/logur/adapter-template"
         },

@@ -1,5 +1,8 @@
 / https://github.com/logur 302
 
+/logur/* go-get=1 /golang/logur/index.html 200
+/logur/* https://godoc.org/logur.dev/logur 302
+
 /adapter/:adapter/* go-get=1 /golang/adapter/:adapter/index.html 200
 /adapter/:adapter/* https://godoc.org/logur.dev/adapter/:adapter 302
 
