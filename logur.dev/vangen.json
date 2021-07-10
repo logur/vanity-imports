@@ -6,6 +6,10 @@
             "url": "https://github.com/logur/logur"
         },
         {
+            "prefix": "adapter/apex",
+            "url": "https://github.com/logur/adapter-apex"
+        },
+        {
             "prefix": "adapter/template",
             "url": "https://github.com/logur/adapter-template"
         },
