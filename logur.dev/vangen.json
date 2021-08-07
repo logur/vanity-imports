@@ -10,6 +10,10 @@
             "url": "https://github.com/logur/adapter-template"
         },
         {
+            "prefix": "adapter/apex",
+            "url": "https://github.com/logur/adapter-apex"
+        },
+        {
             "prefix": "adapter/hclog",
             "url": "https://github.com/logur/adapter-hclog"
         },
